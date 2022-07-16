@@ -1,0 +1,15 @@
+User Report:
+____________________________________________________
+Total users: 				 2 
+Total tasks: 				 4
+Total tasks assigned per user: 
+ {'admin': 2, 'megan': 2}
+Percentage of total tasks assigned to user: 
+ {'admin': 50.0, 'megan': 50.0}
+Percentage of completed tasks assigned to user: 
+ {'admin': 0.0, 'megan': 100.0}
+Percentage of incompleted tasks assigned to user: 
+ {'admin': 100.0, 'megan': 0.0}
+Percentage of incompleted and overdue tasks assigned to user: 
+ {'admin': 100.0, 'megan': 0.0}
+____________________________________________________
